@@ -2,7 +2,6 @@
 
 <h3 align="center"><b>⚡ TECH STACK ⚡</b></h3>
 <h5 align="center"><b>🤔Techs that i've used at least once</b><h5>  
-</br>
 <p align="center">  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp 
@@ -20,7 +19,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
-</br>
 
 ---
 :trophy: Award    
@@ -34,7 +32,7 @@
 3. [한국데이터산업진흥원] SQL 개발자(SQLD) (2021.06.25.)  
 ---
 <details markdown="1">
-<summary> [Github Stat] *(:point_left: Click)* </summary>
+<summary> [Github Stat] <U>(:point_left: Click)</U> </summary>
 
  [![DongHyeon KIM's github stats](https://github-readme-stats.vercel.app/api?username=colin9597)](https://github.com/anuraghazra/github-readme-stats)
 </details>
