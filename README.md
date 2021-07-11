@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😄&fontSize=90)
 
 <h3 align="center"><b>⚡ TECH STACK ⚡</b></h3>
-<h5 align="center"><b>Techs that i've used at least once</b><h5>  
+<h5 align="center"><b>🤔Techs that i've used at least once</b><h5>  
 </br>
 <p align="center">  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -37,11 +37,6 @@
 <summary> [Github Stat] *(:point_left: Click)* </summary>
 
  [![DongHyeon KIM's github stats](https://github-readme-stats.vercel.app/api?username=colin9597)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<summary> [My Language and Tool] *(:point_left: Click)* </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colin9597&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
