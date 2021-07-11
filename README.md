@@ -20,6 +20,19 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
+---
+:trophy: Award  
+1. [특허청 · 삼성전자] 대한민국 학생창의력 챔피언대회 **동상** (2014.07.26.)
+2. [포스코인재창조원 · 포항공과대학교] 청년 AI · Big Data 아카데미 **우수상(개인)** (2021.04.21.)
+3. [포스코인재창조원 · 포항공과대학교] 청년 AI · Big Data 아카데미 **장려상(팀)** (2021.04.21.)
+---
+:page_with_curl: License  
+1. [대한상공회의소] 컴퓨터활용능력 1급 (2018.01.26.)
+2. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2021.06.18.)
+3. [한국데이터산업진흥원] SQL 개발자(SQLD) (2021.06.25.)
+
+
+
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
