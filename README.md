@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😄&fontSize=90)
 
- :⚡ TECH STACK ⚡:
+## ⚡ TECH STACK ⚡
+Techs that i've used at least once  
+![python](https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<blue>)
 
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
