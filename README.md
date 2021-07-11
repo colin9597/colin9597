@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😄&fontSize=90)
 
- <center>⚡ TECH STACK ⚡</center> 
+ :⚡ TECH STACK ⚡:
 
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
