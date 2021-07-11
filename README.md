@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😄&fontSize=90)
 
-## ⚡ TECH STACK ⚡
+<h2 align="center"><b>⚡ TECH STACK ⚡</b></h3>
 Techs that i've used at least once  
 ![python](https://img.shields.io/static/v1?message=<Python>&color=<blue>)
 
