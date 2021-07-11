@@ -27,12 +27,16 @@
 1. [특허청 · 삼성전자] 대한민국 학생창의력 챔피언대회 **동상** (2014.07.26.)  
 2. [포스코인재창조원 · 포항공과대학교] 청년 AI · Big Data 아카데미 **우수상(개인)** (2021.04.21.)  
 3. [포스코인재창조원 · 포항공과대학교] 청년 AI · Big Data 아카데미 **장려상(팀)** (2021.04.21.)  
----
 :page_with_curl: License    
 1. [대한상공회의소] 컴퓨터활용능력 1급 (2018.01.26.)  
 2. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2021.06.18.)  
 3. [한국데이터산업진흥원] SQL 개발자(SQLD) (2021.06.25.)  
+---
+<details markdown="1">
+<summary> Github Stat </summary>
 
+ [![DongHyeon KIM's github stats](https://github-readme-stats.vercel.app/api?username=colin9597)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
 <!--
