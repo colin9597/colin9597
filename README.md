@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
+</br>
+
 ---
 :trophy: Award    
 1. [특허청 · 삼성전자] 대한민국 학생창의력 챔피언대회 **동상** (2014.07.26.)  
