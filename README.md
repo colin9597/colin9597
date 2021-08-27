@@ -40,9 +40,9 @@
 <details markdown="1">
 <summary> [Repository Summary] <U>(:point_left: Click)</U> </summary>
 <h5> POSCO 청년 AI · Big Data 아카데미 </h5>
-1. Analysis_Of_Fine_Dust_Factor : [repo](https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors, "Fine_Dust link")  
-2. Analysis_Of_Scale_Defective_Rate_Factor : [repo](https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor, "Scale link")  
-3. 
+1. Analysis_Of_Fine_Dust_Factor : <A href="https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors">[repo]</A><br/>  
+2. Analysis_Of_Scale_Defective_Rate_Factor : <A href="https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor">[repo]</A><br/>
+
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
