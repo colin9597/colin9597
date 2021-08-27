@@ -36,11 +36,11 @@
 
  [![DongHyeon KIM's github stats](https://github-readme-stats.vercel.app/api?username=colin9597)](https://github.com/anuraghazra/github-readme-stats)
 </details>
----
+
 <details markdown="1">
 <summary> [Repository Summary] <U>(:point_left: Click)</U> </summary>
-### POSCO 청년 AI · Big Data 아카데미
-1. 일정 시기의 미세먼지 농도에 대한 주요 영향인자 분석 및 발생량 예측 : [repo](https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors)
+<h3> POSCO 청년 AI · Big Data 아카데미 </h3>
+1. 일정 시기의 미세먼지 농도에 대한 주요 영향인자 분석 및 발생량 예측 : [repo](https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors, "Fine_Dust link")
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
