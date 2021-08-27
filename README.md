@@ -47,8 +47,25 @@
 4. Autonomous_Driving_And_Platooning : <A href="https://github.com/colin9597/Autonomous_Driving_And_Platooning">[repo]</A><br/></div>  
 <div><h4> :fire:Contest </h4>
 
-1. [KDX] Visualization_Consumption_Trends_After_COVID-19: <A href="https://github.com/colin9597/Visualization_Consumption_Trends_After_COVID-19">[repo]</A><br/>  
-2. [DACON] NLP_based_Climate_Technology_Classification  : [repo]</A><br/></div>
+1. [KDX] Visualization_Consumption_Trends_After_COVID-19 : <A href="https://github.com/colin9597/Visualization_Consumption_Trends_After_COVID-19">[repo]</A><br/>  
+2. [DACON] NLP-based_Climate_Technology_Classification  : [repo]</A><br/></div>
+</details>
+
+<div><h4> :pencil2:Study </h4>
+
+1. [Coding_Test] 이것이 취업을 위한 코딩테스트이다 with 파이썬 : <A href="https://github.com/colin9597/Coding_Test">[repo]</A><br/>
+2. [Algorithm_Study] : <A href="https://github.com/colin9597/Algorithm_Study">[repo]</A><br/>  
+3. [NLP_Study] 딥러닝을 이용한 자연어 처리 입문  : <A href="https://github.com/colin9597/NLP_Study">[repo]</A><br/>
+4. [DeepLearning_study] PyTorch로 시작하는 딥러닝 입문 : <A href="https://github.com/colin9597/DeepLearning_Study">[repo]</A><br/></div>
+</details>
+
+<div><h4> :school:Class </h4>
+
+1. [C++] Cpp_Programming : <A href="https://github.com/colin9597/Cpp_Programming">[repo]</A><br/>  
+2. [MATLAB] Mathematical_Algorithm : <A href="https://github.com/colin9597/Mathematical_Algorithm">[repo]</A><br/>
+3. [R] Statistical_Programming_Language : <A href="https://github.com/colin9597/Statistical_Programming_Language">[repo]</A><br/>
+4. [JAVA] Platform-based_Programming : <A href="https://github.com/colin9597/Platform-based_Programming">[repo]</A><br/>
+</div>
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
