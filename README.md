@@ -40,8 +40,9 @@
 <details markdown="1">
 <summary> [Repository Summary] <U>(:point_left: Click)</U> </summary>
 <h5> POSCO 청년 AI · Big Data 아카데미 </h5>
-1. 일정 시기의 미세먼지 농도에 대한 주요 영향인자 분석 및 발생량 예측 : [repo](https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors, "Fine_Dust link")
-2. 압연 공정에서 발생하는 SCALE 불량에 대한 주요 영향인자 분석 : [repo](https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor, "Scale link")
+1. Analysis_Of_Fine_Dust_Factor : [repo](https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors, "Fine_Dust link")  
+2. Analysis_Of_Scale_Defective_Rate_Factor : [repo](https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor, "Scale link")  
+3. 
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
