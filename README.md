@@ -39,10 +39,16 @@
 
 <details markdown="1">
 <summary> [Repository Summary] <U>(:point_left: Click)</U> </summary>
-<h5> POSCO 청년 AI · Big Data 아카데미 </h5>
+<div><h4> :office:POSCO 청년 AI · Big Data 아카데미 </h4>
+
 1. Analysis_Of_Fine_Dust_Factor : <A href="https://github.com/colin9597/Analysis_Of_Fine_Dust_Factors">[repo]</A><br/>  
 2. Analysis_Of_Scale_Defective_Rate_Factor : <A href="https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor">[repo]</A><br/>
+3. Analysis_Of_Credit_Card_Company_Data : <A href="https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data">[repo]</A><br/> 
+4. Autonomous_Driving_And_Platooning : <A href="https://github.com/colin9597/Autonomous_Driving_And_Platooning">[repo]</A><br/></div>  
+<div><h4> :fire:Contest </h4>
 
+1. [KDX] Visualization_Consumption_Trends_After_COVID-19: <A href="https://github.com/colin9597/Visualization_Consumption_Trends_After_COVID-19">[repo]</A><br/>  
+2. [DACON] NLP_based_Climate_Technology_Classification  : [repo]</A><br/></div>
 </details>
 <!--
 **colin9597/colin9597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
