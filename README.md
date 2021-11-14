@@ -32,6 +32,7 @@
 2. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2021.06.18)  
 3. [한국데이터산업진흥원] SQL 개발자(SQLD) (2021.06.25)  
 ---
+
 <details markdown="1">
 <summary> [Github Stat] <U>(:point_left: Click)</U> </summary>
 
