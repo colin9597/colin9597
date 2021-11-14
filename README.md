@@ -46,6 +46,7 @@
 2. Analysis_Of_Scale_Defective_Rate_Factor : <A href="https://github.com/colin9597/Analysis_Of_Scale_Defective_Rate_Factor">[repo]</A><br/>
 3. Analysis_Of_Credit_Card_Company_Data : <A href="https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data">[repo]</A><br/> 
 4. Autonomous_Driving_And_Platooning : <A href="https://github.com/colin9597/Autonomous_Driving_And_Platooning">[repo]</A><br/></div>  
+
 <div><h4> :fire:Contest </h4>
 1. [KDX] Visualization_Consumption_Trends_After_COVID-19 : <A href="https://github.com/colin9597/Visualization_Consumption_Trends_After_COVID-19">[repo]</A><br/>  
 2. [DACON] NLP-based_Climate_Technology_Classification  : <A href="https://github.com/colin9597/NLP-based_Climate_Technology_Classification">[repo]</A><br/>
